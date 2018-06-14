@@ -8,6 +8,7 @@ class Api::V1::BooksController < ApplicationController
   end
 
   def show
+  
   end
 
   def create
@@ -25,6 +26,6 @@ class Api::V1::BooksController < ApplicationController
 #private
 
   #def book_params
-    #params.requre(:book).permit(:title, :description, :credits, :image_url, :user_id, :page_count)
+    #params.requre(:book).permit(:id, :title, :description, :credits, :image_url, :user_id, :page_count)
   #end
 end
