@@ -27,12 +27,10 @@ To make famous wool snacks,/
 From the stuff that makes itchin’.
 ', image_url: 'https://drive.google.com/uc?id=1ldjhoYBNh4aN-NkRsTXsUt96RFxITp6R')
 b1p3 = Book.first.pages.create(title: 'Page 3', description: 'Book one third page', text: 'Buz filled every order,/
-Every belly,/
-With bread and the in-between-pieces,
+with two slices of bread,/
+and its in-between-pieces,
 ', image_url: 'https://drive.google.com/uc?id=1k5OsmLiLIeQ2gCPFEI-fgsds904y4bTw')
-b1p4 = Book.first.pages.create(title: 'Page 4', description: 'Like wool coat stuffing,/
-With extra elbow greases.
-', text: 'Like wool coat stuffing,/
+b1p4 = Book.first.pages.create(title: 'Page 4', description: 'kitchen Buz', text: 'Like wool coat stuffing,/
 With extra elbow greases.', image_url: 'https://drive.google.com/uc?id=1cO_6-GyPTu3KzLjVWcGyoLmyXJeztM0y')
 b1p5 = Book.first.pages.create(title: 'Page 5', description: 'buzzpowder', text: 'As a good moth should,/
 She worked every day,/
@@ -40,12 +38,10 @@ And powdered her wings,/
 Despite her dismay.
 ', image_url: 'https://drive.google.com/uc?id=1D_BkNX5w9vGMi4vzMuHcBLA5rAY57P_4')
 b1p6 = Book.first.pages.create(title: 'Page 6', description: 'buzztrieshard', text: 'Buz did her best,/
-To look  like rest,/
+To look like rest,/
+And fly like the best,/
 But no matter what,/
-or when,/
-or where,/
-or how,/
-She never managed to leave the ground.
+She could not leave the nest.
 ', image_url: 'https://drive.google.com/uc?id=19COb_cxEk3e_sXj843j8TN5wIuGUsRMW')
 b1p7 = Book.first.pages.create(title: 'Page 7', description: 'buzzsadandmothsfly', text: 'She watched them fly,/
 Low, middle, and high,/
